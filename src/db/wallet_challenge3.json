@@ -1,0 +1,23 @@
+{
+  "dailyLimit": 2000,
+  "accounts": [
+    {
+      "userId": "user1",
+      "balance": 1000,
+      "dailyTransferTotal": 0,
+      "lastTransferDate": null
+    },
+    {
+      "userId": "user2",
+      "balance": 500,
+      "dailyTransferTotal": 0,
+      "lastTransferDate": null
+    },
+    {
+      "userId": "user3",
+      "balance": 2500,
+      "dailyTransferTotal": 0,
+      "lastTransferDate": null
+    }
+  ]
+}

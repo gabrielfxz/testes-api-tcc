@@ -1,0 +1,19 @@
+====================================================================
+EXPERIMENTO TC II - IMPACTO DE CODE AGENTS NO DESENVOLVIMENTO
+====================================================================
+
+1. PREPARAÇÃO:
+   - Extraia o ZIP em uma pasta de sua preferência.
+   - Abra o terminal na raiz do projeto e execute: npm install
+   - Inicie o servidor: npm run start (ou node src/server.js)
+
+2. REGRAS DO EXPERIMENTO:
+   - Abra a pasta do projeto no seu editor/IDE de preferência com seu Code Agent (Cursor, Claude, Copilot, etc.).
+   - Resolva os 3 desafios editando EXCLUSIVAMENTE via prompts direcionados ao agente.
+   - Não altere as linhas de código manualmente. Se algo estiver errado ou precisar melhorar, peça ao agente para corrigir.
+   - Você pode testar os endpoints localmente utilizando o script @scripts/validate-api.js ou outras ferramentas
+     (via Postman, Thunder Client, Insomnia ou curl).
+
+3. ENTREGA:
+   - Ao finalizar, compacte novamente a pasta inteira do projeto em um arquivo .ZIP (exemplo: P01_Iniciante_Solucao.zip).
+   - Exporte ou copie o histórico completo da conversa (transcript/logs) com o Code Agent e envie junto.
